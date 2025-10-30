@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRollerApp</string>
+    <string name="roll_button">Roll Dice</string>
+    <string name="dice_image">Dice image</string>
+    <string name="roll_history_label">Roll History:</string>
+    <string name="roll_result">Rolled: %1$d, %2$d</string>
+    <string name="roll_history_display">%1$s\n%2$s</string>
+
+</resources>
