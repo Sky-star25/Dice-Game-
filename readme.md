@@ -16,3 +16,5 @@ Install the APK on your Android device
 Launch the DiceRoller app Demo Video https://youtube.com/shorts/9GPC3O1e5Fo?feature=share The video demonstrates: • Enhanced two-dice rolling feature • Roll history tracking and display • App stability and smooth performance • User interface responsiveness Screenshots
 
 ![Alt text](screenshorts/screenshot1.png?raw=true "Optional title")
+![Alt text](screenshorts/screenshot2.png?raw=true "Optional title")
+![Alt text](screenshorts/screenshot3.png?raw=true "Optional title")
